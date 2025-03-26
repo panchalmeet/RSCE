@@ -1,75 +1,27 @@
-AdminBSB - Material Design
-=======================
-[![npm version](https://img.shields.io/npm/v/adminbsb-materialdesign.svg)](https://www.npmjs.com/package/adminbsb-materialdesign)
-![Bower version](https://img.shields.io/bower/v/adminbsb-materialdesign.svg)
+# RSCE (Research/Start-up/Consultancy/Entrepreneurship Portal)
 
-**AdminBSB - Material Design is a fully responsive and free admin template.** It was developed with [Bootstrap 3.x Framework](http://getbootstrap.com) and [Google Material Design](https://material.google.com) of powers.
+RSCE is a dynamic portal designed to support research, startups, consultancy services, and entrepreneurial ventures. It provides tools for managing and growing businesses, fostering collaboration, and offering access to various resources.
 
-It's really easy to customize and usage. You can use for from 320px to large resolution pixels of new generation screens and mobile devices. (**Fully Responsive Material Design**)
+## Features
+- Customizable user dashboard for entrepreneurs and researchers.
+- Resource sharing and collaboration tools.
+- Integration with third-party APIs for enhanced services.
+- Responsive web design for various devices.
 
-Looking for Premium Templates?
-----------------
-**If you need more features please visit portfolio of mine which page link is [https://themeforest.net/user/gurayyarar/portfolio](http://bit.ly/2oPFpmQ)**
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP, MySQL
+- **Frameworks**: Bootstrap, AdminBSB Material Design
 
-Demo
-----------------
-You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
+## Setup Instructions
 
-![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
+1. Clone the repository.
+2. Run `composer install` for PHP dependencies.
+3. Set up your `.env` file for database and other configurations.
+4. Run database migrations.
+5. Serve the application with `php artisan serve`.
 
-Installation
-----------------
-You can choose one from multiple ways for installation.
+## License
+MIT License
 
-**GitHub**
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine
-```
-git clone https://github.com/gurayyarar/AdminBSBMaterialDesign.git
-```
-
-**npm**
-```
-npm install adminbsb-materialdesign
-```
-
-**bower**
-```
-bower install adminbsb-materialdesign
-```
-
-Documentation
-----------
-Visit the **[documentation](https://gurayyarar.github.io/AdminBSBMaterialDesign/documentation/)**
-
-Browser Support
-----------
-- IE 10 +
-- Microsoft Edge (Latest)
-- Mozilla Firefox (Latest)
-- Google Chrome (Latest)
-- Opera (Latest)
-- Safari (Latest)
-
-Change Logs
-----------
-You can display all release notes with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
-
-
-FAQ
-===
-**Can I use this template for personal or commercial websites/web projects?**  
-Sure, you can use both of personal and commercial websites/web projects.
-
-**Is the attribution link required?**  
-No, not required. (Though very much appreciated)
-
-License
-----------
-**AdminBSB - Material Design** is an open source project that is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-Donations
-----------
-Donations are **greatly appreciated!**
-
-**[BUY ME A COFFEE](http://bit.ly/2yEjtx5)**
+---
